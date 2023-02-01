@@ -1,0 +1,28 @@
+c:\users\chinox\documents\visual studio 2015\Projects\LogSql\LogSql\bin\Debug\LogSql.exe.config
+c:\users\chinox\documents\visual studio 2015\Projects\LogSql\LogSql\bin\Debug\LogSql.exe
+c:\users\chinox\documents\visual studio 2015\Projects\LogSql\LogSql\bin\Debug\LogSql.pdb
+c:\users\chinox\documents\visual studio 2015\Projects\LogSql\LogSql\bin\Debug\LogSql.xml
+c:\users\chinox\documents\visual studio 2015\Projects\LogSql\LogSql\obj\Debug\LogSql.vbprojResolveAssemblyReference.cache
+c:\users\chinox\documents\visual studio 2015\Projects\LogSql\LogSql\obj\Debug\LogSql.Form1.resources
+c:\users\chinox\documents\visual studio 2015\Projects\LogSql\LogSql\obj\Debug\LogSql.Resources.resources
+c:\users\chinox\documents\visual studio 2015\Projects\LogSql\LogSql\obj\Debug\LogSql.vbproj.GenerateResource.Cache
+c:\users\chinox\documents\visual studio 2015\Projects\LogSql\LogSql\obj\Debug\LogSql.exe
+c:\users\chinox\documents\visual studio 2015\Projects\LogSql\LogSql\obj\Debug\LogSql.xml
+c:\users\chinox\documents\visual studio 2015\Projects\LogSql\LogSql\obj\Debug\LogSql.pdb
+C:\Users\Chinox\Documents\Visual Studio 2015\Projects\LogSql\LogSql\obj\Debug\LogSql.frmentry.resources
+C:\Users\Chinox\Documents\Visual Studio 2015\Projects\LogSql\LogSql\obj\Debug\LogSql.frmSec.resources
+C:\Users\Chinox\Documents\Visual Studio 2015\Projects\LogSql\LogSql\obj\Debug\LogSql.frmUser.resources
+F:\Files\Tec\LogSql\LogSql\bin\Debug\LogSql.exe.config
+F:\Files\Tec\LogSql\LogSql\obj\Debug\LogSql.exe
+F:\Files\Tec\LogSql\LogSql\obj\Debug\LogSql.xml
+F:\Files\Tec\LogSql\LogSql\obj\Debug\LogSql.pdb
+F:\Files\Tec\LogSql\LogSql\bin\Debug\LogSql.exe
+F:\Files\Tec\LogSql\LogSql\bin\Debug\LogSql.pdb
+F:\Files\Tec\LogSql\LogSql\bin\Debug\LogSql.xml
+F:\Files\Tec\LogSql\LogSql\obj\Debug\LogSql.vbprojResolveAssemblyReference.cache
+F:\Files\Tec\LogSql\LogSql\obj\Debug\LogSql.Form1.resources
+F:\Files\Tec\LogSql\LogSql\obj\Debug\LogSql.frmentry.resources
+F:\Files\Tec\LogSql\LogSql\obj\Debug\LogSql.frmSec.resources
+F:\Files\Tec\LogSql\LogSql\obj\Debug\LogSql.frmUser.resources
+F:\Files\Tec\LogSql\LogSql\obj\Debug\LogSql.Resources.resources
+F:\Files\Tec\LogSql\LogSql\obj\Debug\LogSql.vbproj.GenerateResource.Cache
